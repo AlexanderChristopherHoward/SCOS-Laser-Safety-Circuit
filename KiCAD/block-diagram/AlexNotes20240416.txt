@@ -1,8 +1,0 @@
-Rs and Cs aree all _SMD 1206
-
-74LS02 s are _SO:SOIC-14, not 14 W based on digikey part spec sheet width of 3.9 mm
- - Also, these are currently each assigned their own package, my understanding is that multiple logial integrated circuits (multiple gates) are on the same SOIC, is there a way to assign both logic gates in the schematic to the same footprint?
-
-for the and gate 74LS11, I am going based off the digikey 
-SN74LS11DR, so also 14 pin SOIC not wide 
-
