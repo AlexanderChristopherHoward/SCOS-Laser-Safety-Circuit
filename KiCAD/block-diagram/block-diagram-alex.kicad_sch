@@ -4254,7 +4254,7 @@
 			(uuid "984cf16f-1d44-43b2-8d6a-8525c6403e50")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "SW2")
 					(unit 1)
@@ -4320,7 +4320,7 @@
 			(uuid "a3175b1c-997b-467f-a24c-44dfb05b955d")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR011")
 					(unit 1)
@@ -4386,7 +4386,7 @@
 			(uuid "3a362f71-7642-440a-a6b2-16c8867a73db")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR07")
 					(unit 1)
@@ -4490,7 +4490,7 @@
 			(uuid "cb587ffe-e927-46f9-b784-a0ec5d9dd08f")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U1")
 					(unit 2)
@@ -4578,7 +4578,7 @@
 			(uuid "d3aacd54-7666-43f9-a88c-6206f0bdfae4")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U6")
 					(unit 1)
@@ -4589,13 +4589,13 @@
 	(symbol
 		(lib_id "74xx:74LS02")
 		(at 213.36 121.92 0)
-		(unit 1)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3a2a2d7e-2b9e-40aa-9ed1-f96e2802995d")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 208.28 116.078 0)
 			(effects
 				(font
@@ -4681,10 +4681,10 @@
 			(uuid "cb587ffe-e927-46f9-b784-a0ec5d9dd090")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
-					(reference "U2")
-					(unit 1)
+					(reference "U1")
+					(unit 3)
 				)
 			)
 		)
@@ -4747,7 +4747,7 @@
 			(uuid "05a4ce6d-95ca-4459-87b9-d0bef7b93c54")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR05")
 					(unit 1)
@@ -4851,7 +4851,7 @@
 			(uuid "cb587ffe-e927-46f9-b784-a0ec5d9dd091")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U1")
 					(unit 1)
@@ -4917,114 +4917,10 @@
 			(uuid "457a2b54-39b5-45e8-abbb-c46516745358")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR015")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "74xx:74LS02")
-		(at 231.14 151.13 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "525f35ab-02aa-4ae5-8afa-5ba830e2e3c3")
-		(property "Reference" "U1"
-			(at 231.14 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74LS02"
-			(at 231.14 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 231.14 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74ls02"
-			(at 231.14 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "quad 2-input NOR gate"
-			(at 231.14 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "cc2e4ed6-3fe2-4d42-aa2d-7f7c0737e682")
-		)
-		(pin "6"
-			(uuid "8c85165e-32c5-403e-87ca-38c339632cb5")
-		)
-		(pin "14"
-			(uuid "8cbd2278-8a93-4dc4-8d4c-c2858b728b7c")
-		)
-		(pin "13"
-			(uuid "f7b701e6-4724-4256-bb1e-42a37ac77db7")
-		)
-		(pin "2"
-			(uuid "5b02fff4-5b9d-4191-8fcc-9cedd6e5ad54")
-		)
-		(pin "12"
-			(uuid "354a276c-39ba-4383-ab56-51d43c379a40")
-		)
-		(pin "7"
-			(uuid "75d2b12c-f1f1-4e74-8b56-e8189fa49da9")
-		)
-		(pin "1"
-			(uuid "cc2920c4-3a41-4a58-9833-8becba19b3d0")
-		)
-		(pin "3"
-			(uuid "8999c840-35a0-4fd4-9518-8a5d25549c3b")
-		)
-		(pin "4"
-			(uuid "436eb5bf-93a9-4a90-9047-75f557448d73")
-		)
-		(pin "10"
-			(uuid "18313f75-902d-4c9a-b497-a5ac5bf53c34")
-		)
-		(pin "8"
-			(uuid "b4a95107-e867-431a-ab5f-dc58f197f8d7")
-		)
-		(pin "9"
-			(uuid "e1cc54c7-d3ff-4dc7-a62b-5d8d5aff99b0")
-		)
-		(pin "5"
-			(uuid "26e564e4-434b-4ed7-8f41-e1f15bc8d0be")
-		)
-		(instances
-			(project "block-diagram"
-				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
-					(reference "U1")
-					(unit 3)
 				)
 			)
 		)
@@ -5125,7 +5021,7 @@
 			(uuid "82e7ca0b-38b2-4d49-8913-caf72bc72cde")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U3")
 					(unit 3)
@@ -5195,7 +5091,7 @@
 			(uuid "582c5cd6-3bdc-47a0-91ca-d7c767037cd0")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "C3")
 					(unit 1)
@@ -5261,7 +5157,7 @@
 			(uuid "486c7ab7-e835-4e11-a756-79dab0767bcb")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR010")
 					(unit 1)
@@ -5330,7 +5226,7 @@
 			(uuid "9ced9d8d-d3af-46dc-97bf-31d11ebff05b")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "SW3")
 					(unit 1)
@@ -5434,7 +5330,7 @@
 			(uuid "26e564e4-434b-4ed7-8f41-e1f15bc8d0bf")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U1")
 					(unit 4)
@@ -5500,7 +5396,7 @@
 			(uuid "bea9967b-9a59-4c15-81c8-33cb495dd61e")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR04")
 					(unit 1)
@@ -5566,7 +5462,7 @@
 			(uuid "661532f7-07e1-4f58-a434-683327bdd1c3")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR01")
 					(unit 1)
@@ -5632,7 +5528,7 @@
 			(uuid "9ba49ca8-eb19-40f7-955b-740e27a72752")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR02")
 					(unit 1)
@@ -5697,7 +5593,7 @@
 			(uuid "4df098d8-eba9-4eb3-9610-a9e1fdd49965")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR014")
 					(unit 1)
@@ -5763,7 +5659,7 @@
 			(uuid "48e71817-13ba-4f34-9fa2-9c43c0dc5335")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR03")
 					(unit 1)
@@ -5829,7 +5725,7 @@
 			(uuid "12517661-e1df-4132-95be-3f00e8bbe2b7")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR013")
 					(unit 1)
@@ -5899,7 +5795,7 @@
 			(uuid "123a02b6-7a8e-4c89-816f-6b9ec4cfb0d8")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "R3")
 					(unit 1)
@@ -6005,7 +5901,7 @@
 			(uuid "26e564e4-434b-4ed7-8f41-e1f15bc8d0c0")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U1")
 					(unit 5)
@@ -6070,7 +5966,7 @@
 			(uuid "dd845dfd-1276-4bbe-8a80-503d4771ccb8")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR012")
 					(unit 1)
@@ -6174,7 +6070,7 @@
 			(uuid "1fb7be49-8fa9-492e-8cca-9066b23273e6")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U3")
 					(unit 1)
@@ -6244,7 +6140,7 @@
 			(uuid "eb05d68f-f981-4fa5-9102-f4b18fcec260")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "R2")
 					(unit 1)
@@ -6344,7 +6240,7 @@
 			(uuid "570b81c1-48e9-4697-833e-d3aa8e0d3d21")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "Q4")
 					(unit 1)
@@ -6414,7 +6310,7 @@
 			(uuid "14574015-258a-4af9-98d3-5178d23bc79b")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "C4")
 					(unit 1)
@@ -6518,7 +6414,7 @@
 			(uuid "1ff0d338-4e59-416d-aeb3-eb086b768b9c")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U3")
 					(unit 2)
@@ -6584,7 +6480,7 @@
 			(uuid "5f4fe269-3d62-4ee1-9285-88f562aa5f77")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "#PWR06")
 					(unit 1)
@@ -6654,7 +6550,7 @@
 			(uuid "479eb671-fabf-4282-aff3-90cabf657ce4")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "R1")
 					(unit 1)
@@ -6724,7 +6620,7 @@
 			(uuid "2e6efd18-c621-4eee-8643-fcc83ccf1095")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "R4")
 					(unit 1)
@@ -6792,7 +6688,7 @@
 			(uuid "766e6a95-b6a9-4f69-97d5-33296542e765")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "SW1")
 					(unit 1)
@@ -6898,7 +6794,7 @@
 			(uuid "a1212a80-fcbf-4f3a-9ee9-1c0be41405eb")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "U3")
 					(unit 4)
@@ -6998,7 +6894,7 @@
 			(uuid "94ffe3e9-ddca-4ed1-a4a9-d1a691091ada")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "Q3")
 					(unit 1)
@@ -7066,7 +6962,7 @@
 			(uuid "9208a0d3-5141-4031-b292-8c028d9fef41")
 		)
 		(instances
-			(project "block-diagram"
+			(project "block-diagram-alex"
 				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
 					(reference "SW4")
 					(unit 1)
