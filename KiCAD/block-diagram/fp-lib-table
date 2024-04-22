@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "my_mtg_hole")(type "KiCad")(uri "${KIPRJMOD}/my_mtg_hole.pretty")(options "")(descr ""))
+)
