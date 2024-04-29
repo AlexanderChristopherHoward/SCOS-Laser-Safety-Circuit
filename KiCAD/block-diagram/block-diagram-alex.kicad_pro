@@ -486,7 +486,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../scos-control/Hardware/KiCAD/control-mega-shield/models/block-diagram-alex.step",
       "svg": "",
       "vrml": ""
     },
