@@ -9210,16 +9210,16 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_US")
-		(at 204.47 22.86 90)
+		(at 204.47 22.86 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8085e42e-1b03-4a3f-b0ef-7343c4b0d72a")
 		(property "Reference" "RV1"
-			(at 204.47 26.67 90)
+			(at 204.47 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9227,7 +9227,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer_US"
-			(at 204.47 29.21 90)
+			(at 204.47 26.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
