@@ -7156,7 +7156,7 @@
 		(descr "Potentiometer, horizontal, ACP CA6-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf")
 		(tags "Potentiometer horizontal ACP CA6-H2,5")
 		(property "Reference" "RV1"
-			(at 0 -2.06 90)
+			(at 0.305 -11.935 180)
 			(layer "F.SilkS")
 			(uuid "6c6cb306-9ef0-4af8-a0b7-26bedfc9ea7f")
 			(effects
@@ -7477,7 +7477,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "B.Cu")
 		(uuid "685b2de4-d8da-4e4e-a1d8-fcdfdd1052e5")
-		(at 167.64 81.28 180)
+		(at 167.64 82.55 180)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"

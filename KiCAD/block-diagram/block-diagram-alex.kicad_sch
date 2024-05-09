@@ -7126,7 +7126,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "27f9f281-4323-4e35-9225-5ef4a4cd8512")
 		(property "Reference" "U6"
 			(at 197.7741 30.48 0)
@@ -7165,6 +7164,23 @@
 			)
 		)
 		(property "Description" "CMOS Timer, 555 compatible, SOIC-8"
+			(at 195.58 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "LM555CMX/NOPBCT-ND"
+			(at 180.848 53.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "LM555CMX/NOPB"
 			(at 195.58 43.18 0)
 			(effects
 				(font
@@ -10382,6 +10398,24 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "DMN2046U-7DICT-ND"
+			(at 187.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MfgNo" "DMN2046U-7"
+			(at 187.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e75c587c-4e4c-478e-94de-0f46be58aef2")
 		)
@@ -10476,7 +10510,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bb7cd367-5020-4695-8014-133a01bb3663")
 		(property "Reference" "C4"
 			(at 214.63 63.5062 0)
@@ -10515,6 +10548,23 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 212.09 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "4713-GMC21X5R106J10NTCT-ND"
+			(at 230.378 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "GMC21X5R106J10NT"
 			(at 212.09 64.77 0)
 			(effects
 				(font
@@ -11472,7 +11522,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f2a397c5-d8fa-4c1c-a96b-1eeef7a4979a")
 		(property "Reference" "Q3"
 			(at 173.99 66.0399 0)
@@ -11539,6 +11588,23 @@
 		)
 		(property "Sim.Pins" "1=D 2=G 3=S"
 			(at 167.64 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "DMN2046U-7DICT-ND"
+			(at 157.226 71.628 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "DMN2046U-7"
+			(at 167.64 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
