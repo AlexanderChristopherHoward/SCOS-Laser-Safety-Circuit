@@ -6945,7 +6945,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS02"
+		(property "Value" "74HC02"
 			(at 168.91 31.75 0)
 			(effects
 				(font
@@ -7173,7 +7173,7 @@
 			)
 		)
 		(property "CatNo" "LM555CMX/NOPBCT-ND"
-			(at 180.848 53.086 0)
+			(at 178.308 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7369,7 +7369,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS02"
+		(property "Value" "74HC02"
 			(at 227.584 100.076 0)
 			(effects
 				(font
@@ -7606,7 +7606,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS02"
+		(property "Value" "74HC02"
 			(at 138.43 60.96 0)
 			(effects
 				(font
@@ -8311,7 +8311,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS11"
+		(property "Value" "74HC11"
 			(at 132.0717 124.46 0)
 			(effects
 				(font
@@ -8601,6 +8601,76 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 176.53 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f84a16e-10cc-4e09-9127-a3d44cb9c652")
+		(property "Reference" "C5"
+			(at 179.07 44.4562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Small"
+			(at 179.07 46.9962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 176.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 176.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e4b1135c-b053-4424-bd64-14be10be5c1b")
+		)
+		(pin "2"
+			(uuid "a3a9b5ea-cd85-49d9-b4bf-6344e2051154")
+		)
+		(instances
+			(project "block-diagram-alex"
+				(path "/db38bfac-663c-442a-8ac2-f7bf1aa9a3fd"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 228.6 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8803,7 +8873,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 43.18 0)
+		(at 176.53 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8812,7 +8882,7 @@
 		(fields_autoplaced yes)
 		(uuid "65d86696-cc0f-4dc5-9250-7dc33a837ad7")
 		(property "Reference" "#PWR029"
-			(at 176.53 49.53 0)
+			(at 176.53 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8821,7 +8891,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 176.53 48.26 0)
+			(at 176.53 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8829,7 +8899,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 43.18 0)
+			(at 176.53 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8838,7 +8908,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 43.18 0)
+			(at 176.53 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8847,7 +8917,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 43.18 0)
+			(at 176.53 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8951,7 +9021,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS02"
+		(property "Value" "74HC02"
 			(at 193.04 123.19 0)
 			(effects
 				(font
@@ -9522,7 +9592,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LS02"
+		(property "Value" "74HC02"
 			(at 218.44 130.8099 0)
 			(effects
 				(font
@@ -10027,7 +10097,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS11"
+		(property "Value" "74HC11"
 			(at 251.4517 90.17 0)
 			(effects
 				(font
@@ -10324,7 +10394,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b51899c7-16c7-4a1a-b6e9-dc5ea90f96e2")
 		(property "Reference" "Q4"
 			(at 194.31 66.0399 0)
@@ -10399,12 +10468,11 @@
 			)
 		)
 		(property "CatNo" "DMN2046U-7DICT-ND"
-			(at 187.96 67.31 0)
+			(at 195.834 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "MfgNo" "DMN2046U-7"
@@ -10606,7 +10674,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS11"
+		(property "Value" "74HC11"
 			(at 113.0217 124.46 0)
 			(effects
 				(font
@@ -11427,7 +11495,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LS11"
+		(property "Value" "74HC11"
 			(at 156.21 129.5399 0)
 			(effects
 				(font
