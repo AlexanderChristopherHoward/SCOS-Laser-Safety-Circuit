@@ -6958,6 +6958,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "296-1188-1-ND"
+			(at 168.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC02DR"
+			(at 168.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "de44066b-46fd-42f1-9ab0-d70284b7e98d")
 		)
@@ -7382,6 +7399,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "296-1188-1-ND"
+			(at 223.52 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC02DR"
+			(at 223.52 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "de44066b-46fd-42f1-9ab0-d70284b7e98e")
 		)
@@ -7611,6 +7645,23 @@
 			)
 		)
 		(property "Description" "quad 2-input NOR gate"
+			(at 138.43 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "296-1188-1-ND"
+			(at 138.43 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC02DR"
 			(at 138.43 67.31 0)
 			(effects
 				(font
@@ -8332,6 +8383,23 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
+			(at 132.08 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "296-14830-1-ND"
+			(at 132.08 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC11DR"
 			(at 132.08 130.81 0)
 			(effects
 				(font
@@ -9098,6 +9166,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "296-1188-1-ND"
+			(at 193.04 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC02DR"
+			(at 193.04 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "cc2e4ed6-3fe2-4d42-aa2d-7f7c0737e683")
 		)
@@ -9623,7 +9708,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8f6b8bde-f20f-4489-a648-b94be67fc7a5")
 		(property "Reference" "U1"
 			(at 218.44 128.2699 0)
@@ -9662,6 +9746,23 @@
 			)
 		)
 		(property "Description" "quad 2-input NOR gate"
+			(at 212.09 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "296-1188-1-ND"
+			(at 223.774 139.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC02DR"
 			(at 212.09 129.54 0)
 			(effects
 				(font
@@ -10166,6 +10267,23 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
+			(at 251.46 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "296-14830-1-ND"
+			(at 251.46 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC11DR"
 			(at 251.46 96.52 0)
 			(effects
 				(font
@@ -10743,6 +10861,23 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
+			(at 113.03 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "296-14830-1-ND"
+			(at 113.03 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC11DR"
 			(at 113.03 130.81 0)
 			(effects
 				(font
@@ -11565,6 +11700,23 @@
 			)
 		)
 		(property "Description" "Triple 3-input AND"
+			(at 149.86 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "296-14830-1-ND"
+			(at 149.86 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "SN74HC11DR"
 			(at 149.86 128.27 0)
 			(effects
 				(font
