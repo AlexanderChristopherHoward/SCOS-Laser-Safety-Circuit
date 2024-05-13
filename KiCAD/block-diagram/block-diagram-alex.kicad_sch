@@ -7602,6 +7602,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
+			(at 92.71 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37636412-b197-4c02-9695-64f78b242ba7")
 		)
@@ -8158,6 +8175,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
+			(at 92.71 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05f1045e-9f65-4221-bd43-a3a5b71e2937")
 		)
@@ -8283,6 +8317,23 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 92.71 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
 			(at 92.71 184.15 0)
 			(effects
 				(font
@@ -8935,6 +8986,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
+			(at 92.71 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67f6c1a4-3580-4bb8-b5e0-70c8ea35a7ff")
 		)
@@ -9312,6 +9380,23 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 92.71 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
 			(at 92.71 179.07 0)
 			(effects
 				(font
@@ -10275,6 +10360,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
+			(at 92.71 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f09c9bf6-6ffa-46cc-b22a-6a80cb080c4e")
 		)
@@ -10525,6 +10627,23 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 92.71 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
 			(at 92.71 153.67 0)
 			(effects
 				(font
@@ -11066,6 +11185,23 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 92.71 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "732-4984-1-ND"
+			(at 92.71 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "150080RS75000"
 			(at 92.71 189.23 0)
 			(effects
 				(font
