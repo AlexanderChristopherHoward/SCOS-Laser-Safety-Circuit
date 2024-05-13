@@ -6626,6 +6626,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
+			(at 105.41 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84b3e83c-1ac3-4c97-9b78-f46a89086f75")
 		)
@@ -7852,6 +7869,23 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 105.41 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
 			(at 105.41 184.15 0)
 			(effects
 				(font
@@ -9755,7 +9789,7 @@
 			)
 		)
 		(property "CatNo" "296-1188-1-ND"
-			(at 223.774 139.954 0)
+			(at 212.598 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9941,6 +9975,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
+			(at 105.41 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c4571ed-93cd-44aa-ade9-27a4760733d6")
 		)
@@ -10001,6 +10052,23 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 105.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
 			(at 105.41 173.99 0)
 			(effects
 				(font
@@ -10715,6 +10783,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
+			(at 105.41 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "92408ad1-e9ae-4aeb-8f8e-f1c37813ed28")
 		)
@@ -11189,6 +11274,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
+			(at 105.41 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58505cf0-3255-4775-afbb-9175208ec8f0")
 		)
@@ -11249,6 +11351,23 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 105.41 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
 			(at 105.41 158.75 0)
 			(effects
 				(font
@@ -11543,6 +11662,23 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 105.41 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "A130132CT-ND"
+			(at 105.41 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "CRGCQ0805J470R"
 			(at 105.41 168.91 0)
 			(effects
 				(font
