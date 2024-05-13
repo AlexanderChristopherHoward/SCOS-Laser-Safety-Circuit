@@ -7688,7 +7688,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 168.91 123.1962 0)
 			(effects
 				(font
@@ -7724,7 +7724,7 @@
 				(hide yes)
 			)
 		)
-		(property "CatNo" "720-VJ0805Y103JXQCW1BCCT-ND"
+		(property "CatNo" "490-11592-1-ND"
 			(at 173.736 117.856 0)
 			(effects
 				(font
@@ -7732,7 +7732,7 @@
 				)
 			)
 		)
-		(property "MfgNo" "VJ0805Y103JXQCW1BC"
+		(property "MfgNo" "GRM21B7U1A104JA01L"
 			(at 166.37 121.92 0)
 			(effects
 				(font
@@ -8475,7 +8475,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 186.69 26.6762 0)
 			(effects
 				(font
@@ -8511,15 +8511,15 @@
 				(hide yes)
 			)
 		)
-		(property "CatNo" "720-VJ0805Y103JXQCW1BCCT-ND"
-			(at 179.578 14.732 0)
+		(property "CatNo" "490-11592-1-ND"
+			(at 172.212 24.638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "MfgNo" "VJ0805Y103JXQCW1BC"
+		(property "MfgNo" "GRM21B7U1A104JA01L"
 			(at 184.15 25.4 0)
 			(effects
 				(font
@@ -8627,7 +8627,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "10nF"
 			(at 179.07 46.9962 0)
 			(effects
 				(font
@@ -8713,7 +8713,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 231.14 124.4662 0)
 			(effects
 				(font
@@ -8749,7 +8749,7 @@
 				(hide yes)
 			)
 		)
-		(property "CatNo" "720-VJ0805Y103JXQCW1BCCT-ND"
+		(property "CatNo" "490-11592-1-ND"
 			(at 239.522 118.618 0)
 			(effects
 				(font
@@ -8757,7 +8757,7 @@
 				)
 			)
 		)
-		(property "MfgNo" "VJ0805Y103JXQCW1BC"
+		(property "MfgNo" "GRM21B7U1A104JA01L"
 			(at 228.6 123.19 0)
 			(effects
 				(font
@@ -10630,7 +10630,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "10uF"
 			(at 214.63 66.0462 0)
 			(effects
 				(font
