@@ -11625,15 +11625,16 @@
 				(hide yes)
 			)
 		)
-		(property "CatNo" "ED7264-10-ND"
+		(property "CatNo" ""
 			(at 149.86 186.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "MfgNo" "800-10-010-10-001000"
+		(property "MfgNo" ""
 			(at 144.78 170.18 0)
 			(effects
 				(font
