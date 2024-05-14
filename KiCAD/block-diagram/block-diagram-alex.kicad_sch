@@ -9669,6 +9669,24 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" ""
+			(at 204.47 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MfgNo" ""
+			(at 204.47 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0ece2fb7-cc33-43c3-ba93-3886c5c5c40f")
 		)
@@ -10532,7 +10550,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 214.63 31.7499 0)
 			(effects
 				(font
@@ -10560,6 +10578,23 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 212.09 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "311-1.00KCRCT-ND"
+			(at 212.09 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "RC0805FR-071KL"
 			(at 212.09 30.48 0)
 			(effects
 				(font
@@ -10952,7 +10987,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "1uF"
 			(at 214.63 66.0462 0)
 			(effects
 				(font
@@ -10988,15 +11023,15 @@
 				(hide yes)
 			)
 		)
-		(property "CatNo" "4713-GMC21X5R106J10NTCT-ND"
-			(at 230.378 68.58 0)
+		(property "CatNo" "311-3498-1-ND"
+			(at 214.122 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "MfgNo" "GMC21X5R106J10NT"
+		(property "MfgNo" "CC0805JKX7R9BB105"
 			(at 212.09 64.77 0)
 			(effects
 				(font
