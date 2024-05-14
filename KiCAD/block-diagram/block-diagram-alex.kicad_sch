@@ -11578,7 +11578,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d1ac7d17-11f8-4bf3-9e21-1e8f4ff6ead3")
 		(property "Reference" "J3"
 			(at 147.32 170.1799 0)
