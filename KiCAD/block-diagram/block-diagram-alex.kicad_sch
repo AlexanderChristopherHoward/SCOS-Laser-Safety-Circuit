@@ -7096,6 +7096,23 @@
 				(hide yes)
 			)
 		)
+		(property "CatNo" "ED7264-10-ND"
+			(at 274.32 125.984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "800-10-010-10-001000"
+			(at 276.86 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "3eee12a1-0572-4c18-a14f-e1b90dcc5305")
 		)
@@ -11562,7 +11579,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d1ac7d17-11f8-4bf3-9e21-1e8f4ff6ead3")
 		(property "Reference" "J3"
 			(at 147.32 170.1799 0)
@@ -11601,6 +11617,23 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 144.78 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "ED7264-10-ND"
+			(at 149.86 186.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "800-10-010-10-001000"
 			(at 144.78 170.18 0)
 			(effects
 				(font
@@ -11874,7 +11907,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e7f913d1-a5a0-49d7-8aba-d0b19a88d8b8")
 		(property "Reference" "J1"
 			(at 101.6 69.85 0)
@@ -11911,6 +11943,23 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 101.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CatNo" "ED7264-10-ND"
+			(at 98.552 97.536 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgNo" "800-10-010-10-001000"
 			(at 101.6 83.82 0)
 			(effects
 				(font
