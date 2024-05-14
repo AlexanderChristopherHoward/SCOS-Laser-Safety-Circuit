@@ -6627,7 +6627,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 179.07 0)
+			(at 105.918 181.356 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6930,7 +6930,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1f3091bd-05ec-4f7d-a817-b73f252e57a1")
 		(property "Reference" "U1"
 			(at 168.91 29.21 0)
@@ -6976,7 +6975,7 @@
 			)
 		)
 		(property "CatNo" "296-1188-1-ND"
-			(at 168.91 38.1 0)
+			(at 156.21 30.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7417,7 +7416,7 @@
 			)
 		)
 		(property "CatNo" "296-1188-1-ND"
-			(at 223.52 105.41 0)
+			(at 228.6 111.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7603,7 +7602,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 158.75 0)
+			(at 71.12 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7642,7 +7641,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3e62abb1-78ee-41a8-8dad-6d688c686d25")
 		(property "Reference" "U1"
 			(at 138.43 58.42 0)
@@ -7688,7 +7686,7 @@
 			)
 		)
 		(property "CatNo" "296-1188-1-ND"
-			(at 138.43 67.31 0)
+			(at 129.54 54.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7810,7 +7808,7 @@
 			)
 		)
 		(property "CatNo" "490-11592-1-ND"
-			(at 173.736 117.856 0)
+			(at 176.784 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7895,7 +7893,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 184.15 0)
+			(at 106.172 186.182 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8176,7 +8174,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 163.83 0)
+			(at 70.866 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8326,7 +8324,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 184.15 0)
+			(at 70.358 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8431,7 +8429,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "530d8984-cf0a-4ef8-8b3d-12bd6cbb3c94")
 		(property "Reference" "U3"
 			(at 132.0717 121.92 0)
@@ -8477,7 +8474,7 @@
 			)
 		)
 		(property "CatNo" "296-14830-1-ND"
-			(at 132.08 130.81 0)
+			(at 134.62 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8817,7 +8814,7 @@
 			)
 		)
 		(property "CatNo" "720-VJ0805Y103JXQCW1BCCT-ND"
-			(at 160.528 48.26 0)
+			(at 158.242 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8987,7 +8984,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 173.99 0)
+			(at 70.612 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9223,7 +9220,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6d7a1050-d063-4f4f-a1c0-1f032bc6d708")
 		(property "Reference" "U1"
 			(at 193.04 120.65 0)
@@ -9269,7 +9265,7 @@
 			)
 		)
 		(property "CatNo" "296-1188-1-ND"
-			(at 193.04 129.54 0)
+			(at 195.58 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9389,7 +9385,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 179.07 0)
+			(at 70.612 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9892,7 +9888,7 @@
 			)
 		)
 		(property "CatNo" "296-1188-1-ND"
-			(at 212.598 129.286 0)
+			(at 222.25 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10079,7 +10075,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 153.67 0)
+			(at 106.426 155.702 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10164,7 +10160,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 173.99 0)
+			(at 105.918 176.022 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10379,7 +10375,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 168.91 0)
+			(at 70.866 168.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10418,7 +10414,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a62f8a89-7a47-495f-ac47-8620edc68bac")
 		(property "Reference" "U3"
 			(at 251.4517 87.63 0)
@@ -10464,7 +10459,7 @@
 			)
 		)
 		(property "CatNo" "296-14830-1-ND"
-			(at 251.46 96.52 0)
+			(at 251.968 102.108 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10539,7 +10534,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a7d41ffc-a2ef-4bf8-a967-1b1d50db9fea")
 		(property "Reference" "R2"
 			(at 214.63 29.2099 0)
@@ -10587,7 +10581,7 @@
 			)
 		)
 		(property "CatNo" "311-1.00KCRCT-ND"
-			(at 212.09 30.48 0)
+			(at 227.838 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10671,7 +10665,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 153.67 0)
+			(at 70.866 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10938,7 +10932,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 189.23 0)
+			(at 105.918 191.516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11024,7 +11018,7 @@
 			)
 		)
 		(property "CatNo" "311-3498-1-ND"
-			(at 214.122 69.088 0)
+			(at 214.884 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11063,7 +11057,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bc204894-681f-4f3a-9260-d949c38c590a")
 		(property "Reference" "U3"
 			(at 113.0217 121.92 0)
@@ -11109,7 +11102,7 @@
 			)
 		)
 		(property "CatNo" "296-14830-1-ND"
-			(at 113.03 130.81 0)
+			(at 109.728 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11229,7 +11222,7 @@
 			)
 		)
 		(property "CatNo" "732-4984-1-ND"
-			(at 92.71 189.23 0)
+			(at 70.866 188.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11446,7 +11439,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 163.83 0)
+			(at 106.172 165.862 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11531,7 +11524,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 158.75 0)
+			(at 105.41 160.782 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11842,7 +11835,7 @@
 			)
 		)
 		(property "CatNo" "A130132CT-ND"
-			(at 105.41 168.91 0)
+			(at 105.664 170.942 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11968,7 +11961,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ed37c3b5-dd9b-4356-92bc-efbd63b60a4b")
 		(property "Reference" "U3"
 			(at 156.21 126.9999 0)
@@ -12016,7 +12008,7 @@
 			)
 		)
 		(property "CatNo" "296-14830-1-ND"
-			(at 149.86 128.27 0)
+			(at 160.274 137.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
