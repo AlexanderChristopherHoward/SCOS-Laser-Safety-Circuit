@@ -9665,16 +9665,15 @@
 				(hide yes)
 			)
 		)
-		(property "CatNo" ""
-			(at 204.47 22.86 90)
+		(property "CatNo" "987-1508-ND"
+			(at 212.598 19.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "MfgNo" ""
+		(property "MfgNo" "67YR50KLF"
 			(at 204.47 22.86 90)
 			(effects
 				(font
