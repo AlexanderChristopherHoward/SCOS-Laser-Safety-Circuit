@@ -105,7 +105,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x00010f0_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -137,9 +137,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber/")
 		)
 	)
 	(net 0 "")
@@ -8501,10 +8501,34 @@
 		(layer "Edge.Cuts")
 		(uuid "5a3a79ab-13bf-48d1-bf8c-e487ea4c045c")
 	)
+	(gr_text "SCOS Safety Circuit\nV1.0 - 2024-05\nA. Howard, E. Hazen"
+		(at 157.226 78.74 0)
+		(layer "B.SilkS")
+		(uuid "d7e06e0a-feaa-44a9-9c09-b57f82b37d83")
+		(effects
+			(font
+				(size 1.651 1.651)
+				(thickness 0.2032)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "-GND-"
 		(at 153.035 78.105 0)
 		(layer "F.SilkS")
 		(uuid "13c4d28f-c3ff-442e-8db5-8a04f14bc708")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "V1.0 5/24"
+		(at 140.462 108.458 0)
+		(layer "F.SilkS")
+		(uuid "1eb966c2-58d1-4f6a-aed5-177d60a4f0f6")
 		(effects
 			(font
 				(size 1 1)
